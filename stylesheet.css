@@ -17,7 +17,7 @@ body {
 }
 h2 {
 	font-size:40px;
-	padding:10px;
+
 	font-family:Times New Roman;
 }
 
@@ -34,4 +34,7 @@ h2 {
 	color:#ffee12;
 }
 
+ol {
+	padding:10px;
+}
 
