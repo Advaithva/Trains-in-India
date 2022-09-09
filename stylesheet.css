@@ -50,8 +50,11 @@ img {
 	padding:20px;
 	border:solid black 1px;
 	margin:10px;
-	background-color:#f297a1;
 	height:250px;
 	width:350px;
+}
+
+.RJNI {
+		background-color:#f297a1;
 }
 
