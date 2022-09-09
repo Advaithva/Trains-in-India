@@ -42,9 +42,15 @@ p {
 	padding:0.5cm
 }
 
-img {
+.img {
 	float:right;
 	padding:10px;
 }
 
+img {
+	text-align:center;
+	padding:20px;
+	border:solid black 1px;
+	margin:10px;
+}
 
