@@ -1,6 +1,4 @@
-img {
-	height:200px;
-	width:350px;
+
 
 }
 .main {
@@ -52,5 +50,6 @@ img {
 	padding:20px;
 	border:solid black 1px;
 	margin:10px;
+	background-color:blue;
 }
 
