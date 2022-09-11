@@ -60,7 +60,7 @@ img {
 }
 
 .SBDI img {
-	background-color:#a1c3ff;
+	background-color:#6C8FC9;
 }
 
 .DUR {
@@ -72,13 +72,24 @@ img {
 }
 
 .DUR img {
-  background-color:#80ff80;
+  background-color:#CEFF03;
 }
 
 .HUM img {
-  background-color:#abcdfe;
+  background-color:#2A8AF4;
 }
 
 .TJS, .DD, .GRB {
 	padding:0.5cm; 
 }
+
+.TJS img {
+	background-color:#FCB900;
+}
+.GRB img {
+	background-color:#388E3C;
+}
+.DD {
+	background-color:#FF1A00;
+}
+
