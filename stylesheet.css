@@ -43,7 +43,7 @@ p {
 }
 
 img {
-	text-align:center;
+	
 	padding:20px;
 	border:solid black 1px;
 	margin:10px;
@@ -79,7 +79,7 @@ img {
   background-color:#00D5FF;
 }
 
-.TJS, .DD, .GRB, .JAN, .GAT, .M18, MAH, ANT, YUVA, SK, EXP, SEXP, LOL, AC, LUX, STEXP, SSEXP {
+.TJS, .DD, .GRB, .JAN, .GAT, .M18, .MAH, .ANT, .YUVA, .SK, .EXP, .SEXP, .LOL, .AC, .LUX, .STEXP, .SSEXP {
 	padding:0.5cm; 
 }
 
