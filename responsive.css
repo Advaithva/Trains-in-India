@@ -29,6 +29,10 @@
 		width:85%;
 		height:4cm;
 	}
+	
+	.headingh1 {
+		fontsize:32px;
+	}
   
 }
 
@@ -61,6 +65,10 @@
 		iframe {
 		width:85%;
 			height:8cm;
+	}
+  	
+	.headingh1 {
+		fontsize:65px;
 	}
   
 }
