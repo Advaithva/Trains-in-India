@@ -23,6 +23,11 @@
     float:left;
 	  
   }
+	
+	
+	iframe {
+		width:85%;
+	}
   
 }
 
@@ -51,6 +56,9 @@
 }
 		body {
 		margin:15px;
+	}
+		iframe {
+		width:85%;
 	}
   
 }
