@@ -7,7 +7,18 @@
       font-size:12px;
   }
   
+  
+  
+  .img {
+    width:100%;
+    float:left;
+  }
+  
 }
+
+
+
+
 
 @media (max-width:1000px ) {
   
@@ -16,6 +27,13 @@
       padding:25px; 
       background-color:#aabcff;
       font-size:20px;
+  }
+  
+  
+  
+   .img {
+    width:100%;
+    float:left;
   }
   
 }
