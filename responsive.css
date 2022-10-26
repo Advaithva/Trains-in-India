@@ -13,6 +13,9 @@
     font-size:12px;
   }
   
+	body {
+		margin:5px;
+	}
   
   
   .img {
@@ -45,5 +48,8 @@
     .RJNI, .DUR, .HUM, .SBDI, .TJS, .DD, .GRB, .JAN, .GAT, .M18, .MAH, .ANT, .YUVA, .SK, .EXP, .SEXP, .LOL, .AC, .LUX, .STEXP, .SSEX, .JSD, .PASS {
 	padding:12px; 
 }
+		body {
+		margin:15px;
+	}
   
 }
