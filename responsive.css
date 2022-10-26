@@ -10,6 +10,10 @@
 
 @media (max-width:1000px ) {
   
-  
+    .main {
+      margin:25px;
+      padding:25px; 
+      background-color:#aabcff;
+  }
   
 }
