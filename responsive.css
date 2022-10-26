@@ -5,6 +5,9 @@
 
   }
   
+  .RJNI, .DUR, .HUM, .SBDI, .TJS, .DD, .GRB, .JAN, .GAT, .M18, .MAH, .ANT, .YUVA, .SK, .EXP, .SEXP, .LOL, .AC, .LUX, .STEXP, .SSEX, .JSD, .PASS {
+	padding:5px; 
+}
   
   p {
     font-size:12px;
@@ -39,5 +42,8 @@
     width:100%;
     float:left;
   }
+    .RJNI, .DUR, .HUM, .SBDI, .TJS, .DD, .GRB, .JAN, .GAT, .M18, .MAH, .ANT, .YUVA, .SK, .EXP, .SEXP, .LOL, .AC, .LUX, .STEXP, .SSEX, .JSD, .PASS {
+	padding:12px; 
+}
   
 }
