@@ -161,7 +161,12 @@ nav li {
 .lastliofnav:hover {
 	overflow-y:scroll;
 	height:500px;
+	
 
+}
+
+.lastliofnav li:hover {
+	color:#ddd;
 }
 
 
