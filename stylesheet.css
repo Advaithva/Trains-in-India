@@ -127,6 +127,7 @@ nav li {
 	padding:0.2cm 0.5cm;
 	display: inline-block;
 	text-align: center;
+	color: #fff;
 
 }
 
@@ -151,6 +152,7 @@ nav li {
 	display:inline-block;
 	width:240px;
 	border:1px solid black;
+	color: #fff;
 	
 
 }
