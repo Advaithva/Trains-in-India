@@ -169,3 +169,57 @@ nav li {
 }
 
 
+
+.github {
+	color:#fff;
+
+}
+
+footer {
+	background-color:#000;
+	color:#fff;
+	margin:0;
+	padding:1cm;
+}
+
+
+
+.snapchat {
+	background-color:#ffff00;
+	padding:5px;
+	margin:1cm 1cm 0 1cm;
+}
+
+
+
+.mail {
+	background-color:#aaffaa;
+	
+}
+
+svg: hover {
+	
+}
+
+footer li {
+	float:left;
+	padding-right:20px;
+}
+
+
+
+.mailtxt {
+	padding-left:15px;
+}
+
+svg {
+	margin-bottom:0;
+	margin-top:1cm;
+}
+
+
+
+.footer-list li {
+	float:right;
+
+}
