@@ -98,3 +98,60 @@ img {
 	backgroundcolor:white;
 }
 
+
+
+
+
+
+
+
+nav {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    position: center;
+    color: #fff;
+    padding: 0 20px;
+    width: 100%;
+    background-blend-mode:lighten;
+    background-color: rgba(11,10, 15, 0.7);
+    position:fixed;
+    top:0;
+    left:0;
+
+}
+
+
+nav li {
+	float:left;	
+	padding:0.2cm 0.5cm;
+	display: inline-block;
+	text-align: center;
+
+}
+
+
+.lastliofnav {
+
+	float:right;
+	position:fixed;
+	right:3cm;
+	background-color:#555;
+	background-bend-mode:lighten;
+	background-color:rgba(12, 12, 12, 0.6);
+	display:inline-block;
+	width:300px;
+
+
+}
+
+
+.lastliofnav li {
+
+	display:inline-block;
+	width:240px;
+	border:1px solid black;
+	
+
+}
+
