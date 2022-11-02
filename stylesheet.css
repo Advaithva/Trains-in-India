@@ -164,7 +164,7 @@ nav li {
 
 }
 
-.lastliofnav li:hover {
+nav li:hover {
 	color:#aaccff;
 	border-bottom:#aaccff 1px solid;
 }
