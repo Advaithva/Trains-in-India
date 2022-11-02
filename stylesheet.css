@@ -165,7 +165,8 @@ nav li {
 }
 
 .lastliofnav li:hover {
-	color:#ddd;
+	color:#aaccff;
+	border-bottom:#aaccff 1px solid;
 }
 
 
